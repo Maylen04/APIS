@@ -1,0 +1,26 @@
+.container-fluid {
+    display: flex;
+    align-items: center;
+    background-color: #d4e09b;
+    flex-direction: column;
+}
+
+.container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;  
+}
+
+.card {
+    margin: 10px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+
